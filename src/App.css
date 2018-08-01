@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.hashtags-list {
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+  font-family: Lucidatypewriter, monospace;
+  font-size: 1.7em;
+  font-weight: bold;
+  height: 80vh;
+  justify-content: center;
+  margin: 0 20%;
+}
